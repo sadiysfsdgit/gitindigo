@@ -1,0 +1,5 @@
+class rectangle
+{
+private String length;
+private String bredth;
+}
